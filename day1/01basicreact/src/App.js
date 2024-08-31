@@ -1,9 +1,12 @@
-
+import Chai from './Chai'
 
 
 function App() {
   return (
-    <h1>hello basic react</h1>
+    <div><h1>hello basic react</h1>
+    <Chai/>
+    
+    </div>
   );
 }
 
